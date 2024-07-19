@@ -1,4 +1,4 @@
-# Gemini RAG App Project Documentation
+# Gemini RAG App Project
 
 ## Overview
 
